@@ -1,0 +1,256 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.info{
+    background-color: #86cb92;
+    float: left;
+    width: 25%;
+    height: 2200px;
+    padding: 10px;
+    text-align:left;
+    font-size: 15px;
+    font-weight: bold;
+}
+.info .titles{
+    font-size: x-large;
+}
+.info .img{
+    margin-top: 5%;
+    height: 350px;
+    width: 250px;
+}
+.info .telimg{
+    margin-top: 0%;
+    height: 40px;
+    width: 40px;
+    display: inline;
+}
+.info .tel{
+    padding: 5;
+    display: inline;
+    vertical-align: 15;
+}
+.info .imgemail{
+    margin-top: 0%;
+    height: 20px;
+    width: 30px;
+    display: inline;
+}
+.info .email{
+    padding: 5;
+    display: inline;
+    vertical-align: 10;
+    font-size: 14
+}
+.info .git{
+    margin-top: 0%;
+    height: 30px;
+    width: 40px;
+    display: inline;
+}
+.info .github{
+    padding: 2;
+    display: inline;
+    vertical-align: 8;
+    font-size: 14
+}
+.info .in{
+    margin-top: 0%;
+    height: 30px;
+    width: 40px;
+    display: inline;
+}
+.info .linkedin{
+    padding: 1;
+    display: inline;
+    vertical-align: 10;
+    font-size: 14
+}
+.info .dir{
+    margin-top: 0%;
+    height: 30px;
+    width: 30px;
+    display: inline;
+}
+.info .direccion{
+    padding: 5;
+    display: inline;
+    vertical-align: 10;
+}
+.info .city{
+    margin-top: 0%;
+    height: 30px;
+    width: 30px;
+    display: inline;
+}
+.info .city1{
+    padding: 5;
+    display: inline;
+    vertical-align: 5;
+}
+.info .file{
+    display: inline;
+}
+label{
+    padding-right: 10px;
+    font-size: 1rem;
+    display: inline;
+}
+.info .img-hob{
+    margin-top: 0%;
+    height: 50px;
+    width: 50px;
+    display: inline;
+}
+.header{
+    float: right;
+    width: 70%;
+    height: 200px;
+    padding: 10px
+    padding-bottom: 50px;
+    margin: 1% auto;
+    contain: line-height:0;
+}
+.header .p1{
+    font-weight: bold;
+    font-size: xx-large;
+}
+.header .p2{
+    font-weight: bold;
+    font-size: medium;
+}
+.perfil{
+    float: right;
+    width: 70%;
+    height: 300px;
+    padding: 10px;
+    padding-bottom: 220px;
+    margin: 5% auto;
+    text-align: justify;
+}
+.perfil .perfil0{
+    font-weight: bold;
+    text-align: center;
+    font-size: xx-large;
+    border-bottom: 2px black solid;
+    background-color: #86cb92;
+}
+.study{
+    float: right;
+    width: 70%;
+    height: 640px;
+    padding: 10px;
+}
+.study .estudio{
+    font-weight: bold;
+    text-align: center;
+    font-size: xx-large;
+    border-bottom: 2px black solid;
+    background-color: #86cb92;
+}
+.study .estudio1{
+    display: inline;
+    margin-right: 160px;
+    font-weight: bold;
+}
+.study .estudio1-1{
+    display: inline;
+}
+.study .estudio1-2{
+    display: inline;
+    margin-right: 65px;
+    font-weight: bold;
+}
+.study .estudio1-2-2{
+    display: inline;
+    margin-right: 45px;
+    font-weight: bold;
+}
+.study .estudio1-3{
+    display: inline;
+}
+.study .ofi{
+    display: inline;
+    margin-right: 10px;
+    font-weight: bold;
+}
+.study .ofi1{
+    display: inline;
+}
+.study .curso{
+    display: inline;
+    margin-right: 10px;
+    font-weight: bold;
+}
+.study .curso1{
+    display: inline;
+}
+.study .idiomas{
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+    border-bottom: 1px black solid;
+    background-color: #86cb92;
+}
+.study .form{
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+    border-bottom: 1px black solid;
+    background-color: #86cb92;
+}
+.study .date{
+    display: inline;
+    font-weight: bolder;
+    margin-right: 100px;
+}
+.study .cisco{
+    display: inline;
+}
+.exp{
+    float: right;
+    width: 70%;
+    height: 300px;
+    padding: 10px;
+    margin-bottom: 400px;
+}
+.exp .exp-lab{
+    font-weight: bold;
+    text-align: center;
+    font-size: xx-large;
+    border-bottom: 2px black solid;
+    background-color: #86cb92;
+}
+.exp .exp0{
+    display: inline;
+    margin-right: 50px;
+    font-weight: bold;
+}
+.exp .exp1{
+    display: inline;
+    margin-right: 60px;
+    font-weight: bold;
+}
+.exp .exp1-2{
+    display: inline;
+}
+.exp .exp1-2-1{
+    display: inline;
+    font-weight: bold;
+}
+.exp .exp1-2-2{
+    display: inline;
+}
+.exp .exp1-3{
+    display: inline;
+    margin-right: 10px;
+    font-weight: bold;
+}
+.exp .exp1-3-1{
+    display: inline;
+}
+.exp .exptat{
+    display: inline;
+    margin-right: 160px;
+    font-weight: bold;
+}
